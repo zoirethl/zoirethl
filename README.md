@@ -5,7 +5,7 @@ I'm on a journey to master web development and create user-friendly, dynamic, an
 
 Feel free to explore my GitHub portfolio, where I showcase my progress and projects.
 
-If you'd like to discuss potential collaborations or just want to say hello, don't hesitate to reach out to me at zoirethl@gmail.com.
+If you'd like to discuss potential collaborations or just want to say hello, don't hesitate to reach out to me.
 
 Thanks for visiting my profile, and I look forward to connecting with you!<br><br>
 
