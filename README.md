@@ -1,7 +1,7 @@
 # 💫 About Me:
-🌱 Hello and welcome to my GitHub profile! My name is Zoireth Liendo, and I'm an aspiring developer currently learning through The Odin Project while honing my skills by practicing with Frontend Mentor. My ultimate goal is to become a full-stack developer and create innovative web applications.
+🌱 Hello and welcome to my GitHub profile! My name is Zoireth Liendo, and I'm passionate about web development, currently learning through The Odin Project while honing my skills by practicing with Frontend Mentor. My ultimate goal is to create innovative web applications with stunning data analysis visualizations for business intelligence analysis.
 
-I'm on a journey to master web development and create user-friendly, dynamic, and engaging web interfaces. I'm dedicated to continuous learning and growth as a developer and always eager to take on new challenges that push me beyond my comfort zone.
+I'm on a journey to master web development and create user-friendly, dynamic, and engaging web interfaces. I'm dedicated to continuous learning and growth as a developer business analyst and always eager to take on new challenges that push me beyond my comfort zone.
 
 Feel free to explore my GitHub portfolio, where I showcase my progress and projects.
 
@@ -11,7 +11,7 @@ Thanks for visiting my profile, and I look forward to connecting with you!<br><b
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valentina-l-0b861b99) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zoireth) 
 
 # 💻 Tech Stack:
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,10 +42,6 @@ Thanks for visiting my profile, and I look forward to connecting with you!<br><b
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=zoirethl&icon=7&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
