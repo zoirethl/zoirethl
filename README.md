@@ -78,7 +78,11 @@ I'm always open to conversations around **analytics, operations strategy, and da
 # 📊 GitHub Stats
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=zoirethl&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoirethl&theme=nightowl&hide_border=false" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoirethl&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zoirethl&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zoirethl&theme=nightowl&hide_border=false" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zoirethl&theme=nightowl&layout=compact&hide_border=false" />
+
 </div>
